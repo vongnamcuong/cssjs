@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/nfVhfW' target='_blank'><img src='https://noithathoaphat3.com/data/images/ban-ghe-1.jpg' width='500px'/><br/>giá bàn ghế gỗ theo yêu cầu </a>.LH mua bàn ghế gỗ theo yêu cầu :01689992358. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/nfVhfW' target='_blank'><img src='https://noithathoaphat3.com/data/images/ban-ghe-1.jpg' width='500px'/><br/>giá bàn ghế gỗ xịn </a>.LH bàn ghế gỗ xịn :01689992358. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
